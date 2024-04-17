@@ -8,8 +8,8 @@ This extension for Visual Studio Code converts filenames to kebab-case from any 
 - Supports JavaScript, TypeScript, JSX, and TSX file types.
 - Handle popular files prefixes like `.test`, `.unit`.
 
-
 Full prefixes list:
+
 ```
 container => .container
 query => .query
@@ -20,7 +20,7 @@ story => .story
 types => .types
 ```
 
-So input file name `MyFileContainer.tsx` would be changed to `my-file.container.tsx` 
+So input file name `MyFileContainer.tsx` would be changed to `my-file.container.tsx`
 
 ## Installation
 
@@ -53,5 +53,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
 
-This extension is licensed under the [MIT License](LICENSE).
-
+This extension is licensed under the MIT License.
