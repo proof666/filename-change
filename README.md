@@ -44,12 +44,13 @@ You can also use the `Ctrl+Shift+P` (Cmd+Shift+P on macOS) shortcut to open the 
 ## Release Notes
 
 ### 0.0.1
-
 Initial release of Camel to Kebab Case Extension.
 
 ### 0.0.2
-
 Fix readme.
+
+### 0.0.3
+Add icon and license.
 
 ## Contributing
 
@@ -57,4 +58,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## License
 
-This extension is licensed under the MIT License.
+This extension is licensed under the [MIT License](LICENSE.md).
